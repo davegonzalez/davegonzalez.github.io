@@ -12,15 +12,3 @@ Static homepage deployed via GitHub Pages.
 ## Local Preview
 
 Open `index.html` directly in a browser.
-
-## Deploy (GitHub Pages)
-
-1. Create GitHub repo `davegonzalez.github.io`.
-2. Push this folder contents to the repo default branch.
-3. In GitHub settings, enable Pages from the default branch root.
-4. Site URL: `https://davegonzalez.github.io/`.
-
-## Notes
-
-- No build step, no JavaScript, no Sapper/Svelte runtime.
-- Blog/music/discovery routes are intentionally excluded.
